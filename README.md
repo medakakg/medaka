@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="figures/MEDAKA_logo.png" width="150" alt="Medaka Logo" />
+  <img src="figures/MEDAKA_logo.jpg" width="170" alt="Medaka Logo" /><br>
 </p>
-<h1 align="center">MEDAKA: Construction of Biomedical Knowledge Graphs Using Large Language Models</h1>
+<h1 align="center">
+  MEDAKA: Construction of Biomedical Knowledge Graphs Using Large Language Models
+</h1>
+
 
 <div align="center">
   <a href="https://github.com/medakakg/medaka/raw/main/dataset/medaka.zip" download>
